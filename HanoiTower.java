@@ -1,4 +1,4 @@
-p// JAVA recursive function to
+// JAVA recursive function to
 // solve tower of hanoi puzzle
 import java.io.*;
 import java.math.*;
