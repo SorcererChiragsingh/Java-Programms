@@ -1,28 +1,21 @@
 # Java-Programms
 <p>
-Learned Programing Language 'Java' From:- Abdul Bari 
-<head>
-    <link rel="canonical" href="https://www.udemy.com/course/java-se-programming/?couponCode=LETSLEARNNOWPP">
-</head>
+Learned Programming Language 'Java' From:- Abdul Bari
+</p>
+<a href="https://www.udemy.com/course/java-se-programming/?couponCode=LETSLEARNNOWPP" target="_blank">Abdul Bari (Udemy)</a>
 <br>
 Will be solving some Java Coding Interview Questions.
 <br>
-From- 1.Java Tpoint- Java Programs  
-<head>
-    <link rel="canonical" href="https://www.javatpoint.com/java-programs">
-</head>
- <br>
-2.Geeks For Geeks- Java Programming Examples 
-<head>
-    <link rel="canonical" href="https://www.geeksforgeeks.org/java-programming-examples/">
-</head>
+From- <br>
+1. Java Tpoint- Java Programs  
+<a href="https://www.javatpoint.com/java-programs" target="_blank">Java Tpoint</a>
 <br>
-3.Interviewbit- Java Programming Interview Questions.
-<head>
-    <link rel="canonical" href="https://www.interviewbit.com/java-programming-interview-questions/">
-</head>
+2. Geeks For Geeks- Java Programming Examples 
+<a href="https://www.geeksforgeeks.org/java-programming-examples/" target="_blank">Geeks For Geeks</a>
+<br>
+3. Interviewbit- Java Programming Interview Questions.
+<a href="https://www.interviewbit.com/java-programming-interview-questions/" target="_blank">Interviewbit</a>
 <br>
 
-</p>
 
 
