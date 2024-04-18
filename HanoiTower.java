@@ -1,5 +1,6 @@
 // JAVA recursive function to
 // solve tower of hanoi puzzle
+// This code is contributed by Chirag
 import java.io.*;
 import java.math.*;
 import java.util.*;
@@ -25,4 +26,4 @@ class hanoiTower {
 	}
 }
 
-// This code is contributed by Chirag
+
