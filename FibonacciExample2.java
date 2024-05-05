@@ -4,7 +4,7 @@
 // Solution:- https://www.javatpoint.com/fibonacci-series-in-java
 
 // Fibonacci Series using recursion in java
-// JavaT Point Q1 :-Fibonacci Series using recursion in java"
+// JavaT Point Q1 :-Fibonacci Series using recursion in java
 class FibonacciExample2
 {  
     static int n1=0,n2=1,n3=0;    
