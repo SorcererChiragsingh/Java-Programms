@@ -24,7 +24,6 @@ public class PrimeExample1
            System.out.println(n + " is not a prime number");  
        }  
    }  
-  
    public static boolean isPrime(int n) 
    {  
        if (n <= 1) 
