@@ -25,6 +25,7 @@ public class PrimeExample2
            }  
        }  
    }  
+   
    public static boolean isPrime(int n) 
    {  
        if (n <= 1) 
