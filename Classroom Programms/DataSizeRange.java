@@ -1,8 +1,10 @@
 //To Find The Range of Different Data Types
 //
 import java.util.Scanner;
-class DataSizeRange {
-    public static void main(String args[]) {
+class DataSizeRange 
+{
+    public static void main(String args[]) 
+    {
         // Short
         System.out.println("Short Min: " + Short.MIN_VALUE);
         System.out.println("Short Max: " + Short.MAX_VALUE);
