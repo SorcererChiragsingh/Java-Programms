@@ -2,9 +2,10 @@
 //
 //
 
-public class Literals {
-
-    public static void main(String[] args) {
+public class Literals 
+{
+    public static void main(String[] args) 
+    {
         /*byte b1=10;
         byte b2=0b1010;
         byte b3=012;
