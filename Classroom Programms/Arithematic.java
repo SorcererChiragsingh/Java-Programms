@@ -1,6 +1,8 @@
-public class Arithematic {
+public class Arithematic 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         
         /* for integer values
         int a=14,b=5;
