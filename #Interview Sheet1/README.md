@@ -1,6 +1,4 @@
 # Interview Sheet 1 Java Programm's 👀👀👀
 
-## 1.
-
-## Watch Preview 👇👇👇😎👌🔥
+## 1. 👇👇👇😎👌🔥
 ![Preview Image]()
