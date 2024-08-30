@@ -1,4 +1,4 @@
-# 1D Array Java Programm's 👀👀👀
+# Java 1D Array Programm's 👀👀👀
 
 ## 1. 👇👇👇😎👌🔥
 ![Preview Image]()
