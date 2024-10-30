@@ -3,8 +3,8 @@
 // 
 
 // Easy 
-// T.C =
-// S.C =
+// T.C = o(n)
+// S.C = o(n)
 
 /* 
 Explanation:-
